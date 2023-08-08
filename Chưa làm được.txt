@@ -1,0 +1,2 @@
+- làm thế nào để khi click vào dấu " = " biết thực hiện hàm cộng , trừ , nhân , chia
+- làm thế nào để truyền giá trị ở input vào hàm tính toán
